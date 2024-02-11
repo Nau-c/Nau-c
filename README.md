@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 
-👋 Hi My name ins Nauzet<br>
+👋 Hi My name is Nauzet<br>
 
 🚀 ¡Hola! Soy Nauzet López Mendoza, un apasionado programador Junior Full Stack. Mi enfoque se centra en tecnologías como JavaScript, React, Node.js y MongoDB, he trabajado en proyectos como full-stack llevando el completo desarrollo de las nuevas implementaciones.
 
