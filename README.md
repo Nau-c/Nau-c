@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
+🚀 ¡Hola! Soy Nauzet López Mendoza, un apasionado programador Junior Full Stack. Mi enfoque se centra en tecnologías como JavaScript, React, Node.js y MongoDB, he trabajado en proyectos como full-stack llevando el completo desarrollo de las nuevas implementaciones.
+
+🎓 Actualmente, estoy inmerso en mi viaje de aprendizaje y crecimiento profesional como estudiante del Master FrontEnd en Lemoncode, donde estoy adquiriendo conocimientos más profundos sobre las últimas tendencias y mejores prácticas en el desarrollo FrontEnd. Este programa me está brindando la oportunidad de perfeccionar mis habilidades y explorar nuevas tecnologías para seguir creciendo como profesional.
+
+💡 Mi enfoque no se limita solo al código, ya que también valoro la colaboración y la resolución de problemas de manera efectiva. Me apasiona contribuir a proyectos que desafíen mis habilidades y me permitan seguir creciendo como profesional.
+
+🌐 Estoy abierto a oportunidades que brinden nuevos retos, donde pueda aplicar y ampliar mis habilidades.
 
 👋 Hi My name ins Nauzet<br>
 
